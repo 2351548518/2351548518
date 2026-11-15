@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="ZeeoRe 与星轨正弦波图形" />
+  <img src="./assets/hero.svg?v=compact" width="100%" alt="ZeeoRe 与星轨正弦波图形" />
 </p>
 
 <p align="center">

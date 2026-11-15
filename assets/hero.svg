@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">ZeeoRe</title>
   <desc id="desc">A cyan mathematical orbit meets a rose-colored constellation on a midnight-blue canvas.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#111D2C"/><stop offset="1" stop-color="#151723"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#111D2C"/><stop offset="1" stop-color="#151723"/></linearGradient>
     <linearGradient id="line" x1="620" y1="80" x2="940" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#79DFD3"/><stop offset="1" stop-color="#ECA9C5"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#79DFD3" stop-opacity=".09"/><stop offset="1" stop-color="#79DFD3" stop-opacity="0"/></radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 H 0 V 32" stroke="#B4D5E5" stroke-opacity=".045"/></pattern>
   </defs>
-  <rect x=".5" y=".5" width="999" height="359" rx="18" fill="url(#bg)" stroke="#2A3544"/>
-  <rect x="1" y="1" width="998" height="358" rx="18" fill="url(#grid)"/>
-  <circle cx="778" cy="173" r="180" fill="url(#glow)"/>
-  <path d="M44 38H68M44 38V62M956 298V322H932" stroke="#6B7B8E" stroke-opacity=".6"/>
-  <text x="70" y="210" fill="#F1F5F9" font-family="'Segoe UI',Arial,sans-serif" font-size="90" font-weight="650" letter-spacing="-4">ZeeoRe</text>
+  <rect x=".5" y=".5" width="999" height="179" rx="18" fill="url(#bg)" stroke="#2A3544"/>
+  <rect x="1" y="1" width="998" height="178" rx="18" fill="url(#grid)"/>
+  <circle cx="778" cy="90" r="100" fill="url(#glow)"/>
+  <path d="M44 28H68M44 28V52M956 128V152H932" stroke="#6B7B8E" stroke-opacity=".6"/>
+  <text x="70" y="115" fill="#F1F5F9" font-family="'Segoe UI',Arial,sans-serif" font-size="72" font-weight="650" letter-spacing="-3">ZeeoRe</text>
+  <g transform="translate(349.2 -3.5) scale(.55)">
   <g stroke="url(#line)">
     <ellipse cx="776" cy="170" rx="129" ry="49" transform="rotate(-35 776 170)" stroke-opacity=".65"/>
     <ellipse cx="776" cy="170" rx="129" ry="49" transform="rotate(35 776 170)" stroke-opacity=".4"/>
@@ -23,4 +24,5 @@
   <circle cx="669" cy="111" r="4" fill="#79DFD3"/>
   <circle cx="844" cy="231" r="4" fill="#ECA9C5"/>
   <circle cx="883" cy="97" r="3" fill="#ECA9C5"/>
+  </g>
 </svg>
