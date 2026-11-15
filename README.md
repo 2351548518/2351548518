@@ -14,7 +14,7 @@
 
 <h2>01 &nbsp; world.execute(me);</h2>
 
-<p><sub><a href="https://projectmili.com/miracle-milk-cn">Mili</a> &nbsp; / &nbsp; 在逻辑中，定义浪漫。</sub></p>
+<p><sub><a href="https://projectmili.com/miracle-milk-cn">Mili</a> &nbsp; </sub></p>
 
 > If I'm a set of points, then I will give you my **dimension**
 >
@@ -32,17 +32,13 @@
 
 <h2>02 &nbsp; 勾指起誓</h2>
 
-<p><sub><a href="https://www.bilibili.com/video/BV1Jb411U7u2/">洛天依 · ilem</a> &nbsp; / &nbsp; 在世界里，找到彼此。</sub></p>
+<p><sub><a href="https://www.bilibili.com/video/BV1Jb411U7u2/">洛天依 · ilem</a> &nbsp; </sub></p>
 
 <p align="center">
-  你是我万水千山的冒险<br />
-  要找的标记点<br /><br />
-  你是我分割人生的线<br />
-  又将它们相连<br /><br />
-  你是前世千次的回眸<br />
-  虔诚牵的手<br /><br />
-  你是其余所有的一切<br />
-  <strong>你是我的世界</strong>
+  你是我万水千山的冒险, 要找的标记点<br /><br />
+  你是我分割人生的线, 又将它们相连<br /><br />
+  你是前世千次的回眸, 虔诚牵的手<br /><br />
+  你是其余所有的一切, <strong>你是我的世界</strong>
 </p>
 
 <br />
