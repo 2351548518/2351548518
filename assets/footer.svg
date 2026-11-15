@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="76" viewBox="0 0 1000 76" fill="none" role="img" aria-labelledby="title">
+  <title id="title">End of file, beginning of a connection.</title>
+  <path d="M40 10H960" stroke="#8795A7" stroke-opacity=".25"/>
+  <circle cx="490" cy="10" r="3" fill="#59BFB6"/><circle cx="510" cy="10" r="3" fill="#D487A8"/>
+  <text x="500" y="49" fill="#8795A7" font-family="Consolas,monospace" font-size="11" text-anchor="middle" letter-spacing="1.5">END OF FILE · BEGINNING OF A CONNECTION</text>
+</svg>
